@@ -1,0 +1,79 @@
+#nprogress .bar {
+    background: red !important;
+}
+
+#nprogress .peg {
+    box-shadow: 0 0 10px red, 0 0 5px red !important;
+}
+
+#nprogress .spinner-icon {
+    border-top-color: red !important;
+    border-left-color: red !important;
+}
+
+td.details-control {
+    background: url('{{asset("img/details_open.jpeg")}}') no-repeat center center;
+    cursor: pointer;
+}
+
+tr.shown td.details-control {
+    background: url('{{asset("img/details_close.jpeg")}}') no-repeat center center;
+}
+
+.blurry {
+    filter: blur(3px);
+}
+
+.answer-alert:hover{
+    box-shadow: 0 2px 9px 0 #101924, 0 1px 1px 0 #101924;
+    border-radius: 5px;
+}
+
+
+.dataTables_scrollBody{
+    min-height: 400px;
+  }
+
+
+
+ .modal {
+    background-color: #00000081 !important;
+    /* background-color: #ffffffac !important; */
+    /* background-color: #101924 !important; */
+ }
+
+
+.lists {
+    list-style-type: circle;
+  }
+
+  ul.b {
+    list-style-type: square;
+  }
+
+  ol.c {
+    list-style-type: upper-roman;
+  }
+
+  ol.d {
+    list-style-type: lower-alpha;
+  }
+
+
+  .vue-dialog-content{
+    text-align: center;
+  }
+
+  .carlcop-pricing:hover{
+    box-shadow: 0 2px 9px 0 #101924, 0 1px 1px 0 #101924;
+    border-radius: 5px;
+  }
+
+  .dropdown-menu {
+    background-color: rgb(248, 245, 245);
+  }
+
+
+  .dataTables_scrollBody{
+    min-height:60vh
+  }

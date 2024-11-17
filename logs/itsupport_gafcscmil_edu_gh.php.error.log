@@ -1,0 +1,348 @@
+[22-Jan-2024 07:53:04 UTC] PHP Warning:  Undefined variable $theme_type in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 3438
+[22-Jan-2024 07:56:18 UTC] PHP Warning:  chmod(): No such file or directory in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[22-Jan-2024 07:57:01 UTC] PHP Warning:  Constant BP_DEFAULT_COMPONENT already defined in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.templates.php on line 28
+[23-Jan-2024 06:10:44 UTC] Cron reschedule event error for hook: rsssl_every_three_hours_hook, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"rsssl_every_three_hours","args":[],"interval":10800}
+[26-Jan-2024 14:56:40 UTC] PHP Warning:  Undefined variable $theme_type in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 3438
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:25 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:26 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:05:27 UTC] PHP Warning:  Undefined variable $vibe_url in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/setup/installer/envato_setup.php on line 2862
+[26-Jan-2024 15:49:00 UTC] PHP Warning:  Undefined array key "menu_icon" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:00 UTC] PHP Warning:  Undefined array key "menu_icon" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:38 UTC] PHP Warning:  Undefined array key "menu_icon" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Undefined array key "menu_icon" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Undefined array key "menu_icon" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Undefined array key "menu_icon" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Undefined array key "menu_icon" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Undefined array key "menu_icon" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Undefined array key "menu_icon" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Undefined array key "menu_icon" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Undefined array key "menu_icon" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Undefined array key "menu_icon" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:49:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:51:31 UTC] PHP Warning:  Undefined array key "menu_icon" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:51:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:51:31 UTC] PHP Warning:  Undefined array key "menu_icon" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[26-Jan-2024 15:51:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/themes/micronet/includes/class.setup.php on line 88
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[30-Jan-2024 06:06:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 16:20:40 UTC] PHP Warning:  require_once(/home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibe-forms/includes/class.admin.php): Failed to open stream: No such file or directory in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibe-forms/loader.php on line 42
+[06-Feb-2024 16:20:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibe-forms/includes/class.admin.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibe-forms/loader.php:42
+Stack trace:
+#0 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-admin/includes/plugin.php(2318): include_once()
+#1 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-admin/includes/plugin.php(663): plugin_sandbox_scrape('vibe-forms/load...')
+#2 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-admin/plugins.php(58): activate_plugin('vibe-forms/load...', 'https://itsuppo...', false)
+#3 {main}
+  thrown in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibe-forms/loader.php on line 42
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:28:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Undefined array key "touchpoint_action" in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[06-Feb-2024 17:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/class.settings.php on line 1295
+[19-Feb-2024 19:27:56 UTC] PHP Warning:  Array to string conversion in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/buddypress/class-api-settings-controller.php on line 355
+[19-Feb-2024 19:27:56 UTC] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-user.php:211
+Stack trace:
+#0 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-user.php(211): trim(Array)
+#1 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/pluggable.php(102): WP_User::get_data_by('login', Array)
+#2 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/buddypress/bp-members/bp-members-functions.php(279): get_user_by('login', Array)
+#3 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/buddypress/bp-members/bp-members-functions.php(498): bp_core_get_userid(Array)
+#4 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/buddypress/class-api-settings-controller.php(365): bp_core_get_user_displayname(Array)
+#5 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/rest-api/class-wp-rest-server.php(1193): VIBE_BP_API_Rest_Settings_Controller->get_avatar(Object(WP_REST_Request))
+#6 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/vbp/v1/avatar', Array, NULL)
+#7 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#8 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/vbp/v1/avatar')
+#9 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#10 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#11 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#12 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#13 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp.php(813): WP->parse_request('')
+#14 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/functions.php(1336): WP->main('')
+#15 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-blog-header.php(16): wp()
+#16 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/index.php(17): require('/home/gafcscmil...')
+#17 {main}
+  thrown in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-user.php on line 211
+[21-Feb-2024 10:43:52 UTC] PHP Warning:  Array to string conversion in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/buddypress/class-api-settings-controller.php on line 355
+[21-Feb-2024 10:43:52 UTC] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-user.php:211
+Stack trace:
+#0 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-user.php(211): trim(Array)
+#1 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/pluggable.php(102): WP_User::get_data_by('login', Array)
+#2 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/buddypress/bp-members/bp-members-functions.php(279): get_user_by('login', Array)
+#3 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/buddypress/bp-members/bp-members-functions.php(498): bp_core_get_userid(Array)
+#4 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/buddypress/class-api-settings-controller.php(365): bp_core_get_user_displayname(Array)
+#5 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/rest-api/class-wp-rest-server.php(1193): VIBE_BP_API_Rest_Settings_Controller->get_avatar(Object(WP_REST_Request))
+#6 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/vbp/v1/avatar', Array, NULL)
+#7 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#8 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/vbp/v1/avatar')
+#9 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#10 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#11 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#12 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#13 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp.php(813): WP->parse_request('')
+#14 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/functions.php(1336): WP->main('')
+#15 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-blog-header.php(16): wp()
+#16 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/index.php(17): require('/home/gafcscmil...')
+#17 {main}
+  thrown in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-user.php on line 211
+[21-Feb-2024 10:47:30 UTC] PHP Warning:  Array to string conversion in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/buddypress/class-api-settings-controller.php on line 355
+[21-Feb-2024 10:47:30 UTC] PHP Fatal error:  Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-user.php:211
+Stack trace:
+#0 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-user.php(211): trim(Array)
+#1 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/pluggable.php(102): WP_User::get_data_by('login', Array)
+#2 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/buddypress/bp-members/bp-members-functions.php(279): get_user_by('login', Array)
+#3 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/buddypress/bp-members/bp-members-functions.php(498): bp_core_get_userid(Array)
+#4 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-content/plugins/vibebp/includes/buddypress/class-api-settings-controller.php(365): bp_core_get_user_displayname(Array)
+#5 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/rest-api/class-wp-rest-server.php(1193): VIBE_BP_API_Rest_Settings_Controller->get_avatar(Object(WP_REST_Request))
+#6 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/vbp/v1/avatar', Array, NULL)
+#7 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#8 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/vbp/v1/avatar')
+#9 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#10 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#11 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#12 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#13 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp.php(813): WP->parse_request('')
+#14 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/functions.php(1336): WP->main('')
+#15 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-blog-header.php(16): wp()
+#16 /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/index.php(17): require('/home/gafcscmil...')
+#17 {main}
+  thrown in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/class-wp-user.php on line 211
+[17-Mar-2024 02:50:12 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/update.php on line 449
+[17-Mar-2024 02:50:43 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/update.php on line 730
+[17-Mar-2024 07:57:36 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/update.php on line 730
+[18-Mar-2024 07:01:43 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/update.php on line 449
+[19-Mar-2024 07:05:22 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/update.php on line 730
+[12-May-2024 09:40:54 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/gafcscmiledu/public_html/itsupport.gafcscmil.edu.gh/wp-includes/update.php on line 449

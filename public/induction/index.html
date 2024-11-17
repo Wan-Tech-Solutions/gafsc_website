@@ -1,0 +1,104 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GAFCSC INDUCTION RELIGIOUS PARADE PROGRAM</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        .pdf-container {
+            width: 100%;
+            height: 100vh; /* Full viewport height */
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            position: relative; /* Position relative to manage overlay */
+        }
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        .fallback {
+            display: none; /* Hidden by default */
+            text-align: center;
+            padding: 20px;
+        }
+        /* Style for the interstitial message */
+        #loadingMessage {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.75);
+            color: white;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5em;
+            z-index: 1000;
+        }
+        #loadingMessage img {
+            max-width: 150px; /* Adjust as needed */
+            margin-bottom: 20px; /* Space between logo and text */
+        }
+    </style>
+</head>
+<body>
+    <div class="pdf-container">
+        <!-- Interstitial message with logo -->
+        <div id="loadingMessage">
+            <img src="logo.png" alt="Logo"> <!-- Replace 'logo-url.png' with the actual path to your logo -->
+            <p>Loading the GAFCSC INDUCTION RELIGIOUS PARADE PROGRAM. This may take a moment.</p>
+        </div>
+        <iframe id="pdf-frame" src="" type="application/pdf"></iframe>
+    </div>
+    <div class="fallback">
+        <p>Your browser does not support PDF viewing. <a id="download-link" href="#" download>Click here to download the PDF.</a></p>
+    </div>
+
+    <script>
+        function loadPDF() {
+            var pdfUrl = encodeURIComponent('https://gafcscmil.edu.gh/induction/INDUCTION_RELIGIOUS_PARADE_PROGRAM.pdf'); // URL-encoded path to your PDF
+            var iframe = document.getElementById('pdf-frame');
+            var fallback = document.querySelector('.fallback');
+            var downloadLink = document.getElementById('download-link');
+            var loadingMessage = document.getElementById('loadingMessage');
+
+            // Set the iframe source to Google Docs Viewer with the PDF URL
+            iframe.src = 'https://docs.google.com/viewer?url=' + pdfUrl + '&embedded=true';
+
+            // Update the download link
+            downloadLink.href = decodeURIComponent(pdfUrl);
+
+            // Hide the loading message and show the content once PDF is loaded
+            iframe.onload = function() {
+                loadingMessage.style.display = 'none';
+                fallback.style.display = 'none';
+            };
+
+            // Handle error in loading PDF
+            iframe.onerror = function() {
+                loadingMessage.style.display = 'none';
+                fallback.style.display = 'block';
+            };
+
+            // Timeout to refresh the page if loading exceeds 10 seconds
+            setTimeout(function() {
+                if (loadingMessage.style.display !== 'none') {
+                    window.location.reload();
+                }
+            }, 10000); // 10 seconds
+        }
+
+        // Load the PDF when the script runs
+        loadPDF();
+    </script>
+</body>
+</html>

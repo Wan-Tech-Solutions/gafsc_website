@@ -1,0 +1,17 @@
+<?php
+
+declare(strict_types=1);
+
+namespace {{ namespace }};
+
+use Illuminate\Http\Resources\Json\JsonResource;
+use Illuminate\Routing\Controller;
+use Symfony\Component\HttpFoundation\Response;
+
+final class {{ class }} extends Controller
+{
+    public function __invoke({{ model }}StoreRequest $request): JsonResource
+    {
+
+    }
+}

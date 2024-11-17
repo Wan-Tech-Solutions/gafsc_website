@@ -1,0 +1,19 @@
+<?php
+
+declare(strict_types=1);
+
+namespace {{ namespace }};
+
+use {{ namespacedModel }};
+use Illuminate\Http\Resources\Json\JsonResource;
+use Illuminate\Routing\Controller;
+use Symfony\Component\HttpFoundation\Response;
+
+final class {{ class }} extends Controller
+{
+    public function __invoke({{ model }}UpdateRequest $request, {{ model }} ${{ modelVariable }}): JsonResource
+    {
+        ${{ modelVariable }}->update($request->validated());
+         return {{ model }}Resource::make(${{ modelVariable }}->refresh());
+    }
+}
